@@ -54,14 +54,15 @@
     position: absolute;
 
     h2 {
-      font-weight: bold;
+      font-weight: 600;
       margin: 0 6px 0;
-      font-size: 22px;
+      font-size: 21px;
       color: #4a4a4a;
+      letter-spacing: -1px;
     }
 
     p {
-      font-weight: lighter;
+      font-weight: 300;
       font-size: 16px;
     }
   }
